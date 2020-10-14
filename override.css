@@ -40,3 +40,16 @@ body > footer {
     background-color: #4d4d4d;
     color: #cccccc;
 }
+
+.footer-footer > ul {
+    display: block;
+}
+
+.footer-footer > ul > li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer-footer a {
+    color: white;
+}
