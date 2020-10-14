@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:RdvSpeakers/LeHalloweenDesSpeakers2020
+	branch = public
+[submodule "themes/rdvspeakers-theme-hugo"]
+	path = themes/rdvspeakers-theme-hugo
+	url = git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git
