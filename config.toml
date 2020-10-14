@@ -52,6 +52,14 @@ googleAnalytics = "UA-XXXXXXXX-X"
     footer = "/images/logos/logo_gray_text.png"
 
 
+[params.footer]
+
+    credits = [
+        "Theme based on <a href='https://github.com/GDGToulouse/'>GDG Toulouse</a>'s <a href='https://github.com/GDGToulouse/devfest-theme-hugo'>DevFest Theme Hugo</a>",
+        "Background vector created by <a href='https://www.freepik.com/vectors/background'>freepik - www.freepik.com</a>",
+        "Logos and graphic identity by <a href='https://twitter.com/lostinbrittany'>Horacio Gonzalez</a>",
+    ]
+
 [languages]
 [languages.en]
     weight = 1
