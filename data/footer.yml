@@ -1,12 +1,12 @@
 share:
   - name: facebook
-    url: https://rentreespeakers.fr/
+    url: https://rdv-speakers.fr/
   - name: twitter
-    url: https://rentreespeakers.fr/
+    url: https://rdv-speakers.fr/
 
 follow:
   - name: twitter
-    url: https://twitter.com/RentreeSpeakers
+    url: https://twitter.com/RdvSpeakers
 
 content:
   - title: footer_about
