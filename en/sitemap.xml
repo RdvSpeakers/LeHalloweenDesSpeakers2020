@@ -18,6 +18,26 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/speakers/agnes_crepet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/speakers/antoine_millet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/speakers/aurelie_vache/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/speakers/gaelle_acas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/speakers/wassim_chegham/</loc>
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/partners/support/bots-garden/</loc>
   </url>
   
@@ -101,6 +121,20 @@
   
   <url>
     <loc>https://rdv-speakers.fr/partners/support/redhat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/fr/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/speakers/"
+                />
   </url>
   
   <url>

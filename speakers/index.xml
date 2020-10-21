@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on Le Halloween des Speakers 2020</title>
+    <link>https://rdv-speakers.fr/speakers/</link>
+    <description>Recent content in Speakers on Le Halloween des Speakers 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://rdv-speakers.fr/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/speakers/agnes_crepet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/speakers/agnes_crepet/</guid>
+      <description>Agnès CREPET est Tech Lead chez Fairphone, entreprise néerlandaise qui propose un smartphone éthique conçu pour durer et construit de manière responsable. Elle est également co-leader de Duchess France et co-fondatrice de la conférence MiXiT qui oeuvre pour plus de diversité et de prise de conscience éthique dans le monde de la Tech. Elle a également co-fondé en France la société Ninja Squad, une équipe de développeurs passionnés et qui met un accent fort sur l’open source et qui fonctionne sur mode coopératif.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/speakers/antoine_millet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/speakers/antoine_millet/</guid>
+      <description>Passionné par les technologies de l&amp;rsquo;information, les systèmes d&amp;rsquo;information et la plongée sous-marine.
+Diplômé d&amp;rsquo;EPITECH en 2009. J&amp;rsquo;ai travaillé de 2009 à 2016 pour Dalenys (anciennement Rentabiliweb) en tant que responsable de l&amp;rsquo;équipe d&amp;rsquo;administrateurs système puis je suis devenu CTO en 2016. J&amp;rsquo;ai rejoint Veepee (anciennement Groupe Vente-Privée) en 2017 pour créer et gérer la nouvelle équipe en charge de la supervision. Je suis désormais en charge de l&amp;rsquo;ensemble des opérations informatiques de Veepee.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/speakers/aurelie_vache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/speakers/aurelie_vache/</guid>
+      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 14 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchess France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/speakers/gaelle_acas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/speakers/gaelle_acas/</guid>
+      <description>Site Reliability Engineer chez Talend, co-organisatrice du CNCF Nantes Meetup, Cloud Addict, j’adore jouer avec les containers, surfer sur les skills Dev&amp;amp;Ops &amp;amp; jongler dans le monde du Serverless. J&amp;rsquo;aime aussi partager et transmettre ma passion du code à nos kids.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/speakers/wassim_chegham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/speakers/wassim_chegham/</guid>
+      <description>Wassim is a passionate and supporter of open source. He currently works for Microsoft Azure as Senior Developer Advocate, specialized in JavaScript.
+In addition to being a contributor on Angular, Bazel and Node.js, Wassim is also the author of many tools for developers such as xlayers.dev and ngx.tools.
+For his many contributions to the developer community, Google nominated Wassim as a GDE on Web technologies, Angular, Google Assistant as well as GCP.</description>
+    </item>
+    
+  </channel>
+</rss>
