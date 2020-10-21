@@ -64,9 +64,9 @@ Taking into account the health situation, the 2020 edition of *Le Halloween des 
 {{% /home-tickets %}}
 
 
-<!-- ... 
+<!-- ... -->
 {{% home-speakers %}}
-## Featured Speakers
+## Frightful Speakers
 
 {{< button-link label="See all speakers"
                 url="./speakers"

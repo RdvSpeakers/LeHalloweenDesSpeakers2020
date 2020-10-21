@@ -65,9 +65,9 @@ Situation sanitaire oblige, l'édition 2020 de *Le Halloween des Speakers* se fe
 {{% /home-tickets %}}
 
 
-<!-- ...
+<!-- ... -->
 {{% home-speakers %}}
-## Conférenciers en vedette
+## Des effrayants conférenciers...
 
 {{< button-link label="Liste complète"
                 url="./speakers"
