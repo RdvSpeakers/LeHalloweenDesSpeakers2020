@@ -1,17 +1,22 @@
 ---
-key: cyril_lacote
-name: Cyril Lacôte
+key: christophe_chaudier
+name: Christophe Chaudier
 feature: true
-company: Adyen
-city: Amsterdam, The Netherlands
-photoURL: /images/speakers/cyril_lacote.jpg
+company: Expedia
+city: Saint-Etienne, France
+photoURL: /images/speakers/christophe_chaudier.jpg
 socials:
   - icon: twitter
-    link: https://twitter.com/clacote
-    name: clacote
+    link: https://twitter.com/c_chaudier
+    name: c_chaudier
   - icon: github
-    link: https://github.com/clacote
-    name: clacote
+    link: https://github.com/cchaudier
+    name: cchaudier
 ---
 
-Après travaillé 10 ans en SSII sur la région lyonnaise, être parti travailler chez Google à Londres, en avoir démissionné au bout de moins de deux mois, avoir fait un tour du monde et de ses Java User Groups, avoir contribué à faire de MiXiT la conférence avec des crêpes et du cœur, avoir monté Ninja Squad (une NoSSII coopérative) avec de brillants amis développeurs, Cyril Lacôte travaille toujours comme développeur Java, mais désormais à Amsterdam depuis deux ans, chez Adyen, un prestataire de paiements (qui a comme client la plupart des gros marchands de la planète).
+Christophe Chaudier aide les Ops à avoir un autre regard sur leur métier ou leurs pratiques en les encourageant à rejoindre le mouvement DevOps. Ils peuvent alors concevoir des infrastructures plus robustes grâce à l’automatisation.
+Avec Lydra, son collectif d'indépendant, il prône un Internet et un Cloud Libre et souverain.
+Il réalise du contenu publiés régulièrement, au travers un podcast, des vidéos et un blog.
+Il propose aussi des programmes de mentorat et des formations en ligne.
+Il anime également la plus grande communauté francophone de discussions, de partage et d'entraide en ligne sur le mouvement DevOps.
+♾️ Les Compagnons du DevOps : https://www.compagnons-devops.fr
