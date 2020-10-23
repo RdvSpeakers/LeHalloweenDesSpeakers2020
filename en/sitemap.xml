@@ -140,6 +140,34 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/sessions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/fr/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/sessions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/sessions/sessions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/fr/sessions/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/sessions/sessions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -155,6 +183,10 @@
   
   <url>
     <loc>https://rdv-speakers.fr/team/sebastien_blanc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/sessions/sessions/1.1_french_developers_outside_france/</loc>
   </url>
   
   <url>

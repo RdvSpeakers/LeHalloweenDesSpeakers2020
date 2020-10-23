@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Le Halloween des Speakers 2020</title>
+    <link>https://rdv-speakers.fr/sessions/sessions/</link>
+    <description>Recent content in Sessions on Le Halloween des Speakers 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://rdv-speakers.fr/sessions/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Table ronde - Développeurs expatriés</title>
+      <link>https://rdv-speakers.fr/sessions/sessions/1.1_french_developers_outside_france/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/sessions/sessions/1.1_french_developers_outside_france/</guid>
+      <description>Lundi 26 Octobre 2020 21h30 On a tous eu un moment dans lequel on s&amp;rsquo;est dit qu&amp;rsquo;on allait partir dans l&amp;rsquo;étranger, pour quelque temps ou pour la vie&amp;hellip; Pour la plupart parmi nous, cela est resté là. Mais certains ont fait le pas.
+Dans cette table ronde on réunit quelques un des ces développeurs expatriés, qui vont nous racconter leurs expériences, les bons côtés et les mauvais, la nostalgie de la maison et le bonheur de se sentir chez soi ailleurs, les problèmes linguistiques, les découvertes culinaires, les chocs culturels&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
