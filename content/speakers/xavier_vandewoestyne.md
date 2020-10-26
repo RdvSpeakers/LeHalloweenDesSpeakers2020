@@ -3,7 +3,7 @@ key: xavier_vandewoestyne
 name: Xavier Van de Woestyne
 feature: true
 company: Memo Bank
-city: Lille, France
+city: Nantes, France
 photoURL: /images/speakers/xavier_vandewoestyne.jpg
 socials:
   - icon: twitter
