@@ -2,8 +2,8 @@
 key: christophe_chaudier
 name: Christophe Chaudier
 feature: true
-company: Expedia
-city: Saint-Etienne, France
+company: Lydra
+city: Saint-Étienne, France
 photoURL: /images/speakers/christophe_chaudier.jpg
 socials:
   - icon: twitter
