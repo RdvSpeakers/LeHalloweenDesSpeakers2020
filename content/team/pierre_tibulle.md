@@ -1,8 +1,10 @@
 ---
+key: pierre_tibulle
 title: Pierre Tibulle
 type: sketchnote
 subtitle: IKO-BOX
-photo: pierre-tibulle.jpg
+company: IKO-BOX
+photoURL: /images/team/pierre_tibulle.jpg
 socials:
   - link: 'https://www.twitter.com/ptibulle'
     name: Twitter
