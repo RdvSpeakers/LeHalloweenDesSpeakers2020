@@ -208,6 +208,17 @@ Dans cette table ronde nous, nous parlerons de l&amp;rsquo;exemple que nous conn
     </item>
     
     <item>
+      <title>Introduction à Crystal</title>
+      <link>https://rdv-speakers.fr/sessions/3.2_crystal-lang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/sessions/3.2_crystal-lang/</guid>
+      <description>Mercredi 28 Octobre 2020 18h30 Crystal est un langage généraliste inspiré de Ruby et qui cible des performances proches du C. Il est bien placé dans les étoiles sur GitHub entre Scala et Elixir et est accompagné d&amp;rsquo;une petite communauté bien productive.
+À travers le développement d’une petite application, découvrons Crystal ensemble ainsi que l’outillage qui l’entoure.
+Au programme: Hello le Haloween des speakers (comme un Hello World mais en différent), types, un soupçon d&amp;rsquo;orienté objet, compilateur, ligne de commande&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Montpellier Tech Hub</title>
       <link>https://rdv-speakers.fr/partners/communautes/montpellier-tech-hub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -279,6 +290,16 @@ Live sur notre cannal YouTube : https://www.youtube.com/channel/UCnwt2UOOdU83Kur
       <guid>https://rdv-speakers.fr/sessions/1.1_french_developers_outside_france/</guid>
       <description>Lundi 26 Octobre 2020 21h30 On a tous eu un moment dans lequel on s&amp;rsquo;est dit qu&amp;rsquo;on allait partir dans l&amp;rsquo;étranger, pour quelque temps ou pour la vie&amp;hellip; Pour la plupart parmi nous, cela est resté là. Mais certains ont fait le pas.
 Dans cette table ronde on réunit quelques un des ces développeurs expatriés, qui vont nous racconter leurs expériences, les bons côtés et les mauvais, la nostalgie de la maison et le bonheur de se sentir chez soi ailleurs, les problèmes linguistiques, les découvertes culinaires, les chocs culturels&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Table ronde - Languages alternatives</title>
+      <link>https://rdv-speakers.fr/sessions/3.3_alternative-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/sessions/3.3_alternative-languages/</guid>
+      <description>Mercredi 28 Octobre 2020 19h15 Table ronde sulfureuse sur les langages alternatifs avec Xavier, Nicolas, Siegfried, François et Philippe avec une énorme inconnue levée par Xavier “mais Philippe c’est quoi un langage alternatif?”. Excellente question à laquelle nous répondrons (ou pas) ce soir.
+Live sur notre cannal YouTube : https://www.youtube.com/channel/UCnwt2UOOdU83KurAPuLcy6g</description>
     </item>
     
   </channel>
