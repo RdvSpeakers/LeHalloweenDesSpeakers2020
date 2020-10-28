@@ -2,7 +2,7 @@
 title: Sébastien Blanc
 type: core
 subtitle: RedHat
-photo: sebastien-blanc.jpg
+photo: sebastien_blanc.jpg
 socials:
   - link: 'https://www.twitter.com/sebi2706'
     name: Twitter

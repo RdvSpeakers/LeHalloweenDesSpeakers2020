@@ -5,9 +5,7 @@ type: core
 key: philippe_charriere
 subtitle: GitLab
 company: GitLab
-city: Lyon, France
 photo: philippe_charriere.jpg
-photoURL: /images/team/philippe_charriere.jpg
 socials:
   - link: 'https://www.twitter.com/k33g_org'
     name: Twitter

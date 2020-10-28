@@ -1,8 +1,10 @@
 ---
 title: Horacio Gonzalez
+name: Horacio Gonzalez
+key: horacio_gonzalez
 type: core
 subtitle: OVHcloud
-photo: horacio-gonzalez.jpg
+photo: horacio_gonzalez.jpg
 socials:
   - link: 'https://www.twitter.com/LostInBrittany'
     name: Twitter
