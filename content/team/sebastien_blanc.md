@@ -1,8 +1,11 @@
 ---
+key: sebastien_blanc
 title: Sébastien Blanc
+name: Sébastien Blanc
 type: core
 subtitle: RedHat
-photo: sebastien_blanc.jpg
+company: RedHat
+photoURL: /images/team/sebastien_blanc.jpg
 socials:
   - link: 'https://www.twitter.com/sebi2706'
     name: Twitter
