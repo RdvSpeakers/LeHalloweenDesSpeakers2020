@@ -154,6 +154,16 @@ Dans cette table ronde nous, nous parlerons de l&amp;rsquo;exemple que nous conn
     </item>
     
     <item>
+      <title>Créer &amp; distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! 🙂</title>
+      <link>https://rdv-speakers.fr/sessions/4.2_plugin-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/sessions/4.2_plugin-kubernetes/</guid>
+      <description>Jeudi 29 Octobre 2020 18h30 Kubernetes est assez complexe comme cela … mais savez vous qu’il est possible de rajouter des fonctionnalités à notre orchestrateur préféré grâce aux plugins et à un petit outil : Krew ?
+Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un plugin à Kubernetes permettant de rendre plus user-friendly nos pods (selon la thématique saisonnière ^^). Mais ce n’est pas tout !</description>
+    </item>
+    
+    <item>
       <title>Du design au code, il n&#39;y a qu&#39;un pas-rseur</title>
       <link>https://rdv-speakers.fr/sessions/2.1_du_design_au_code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
